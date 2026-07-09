@@ -27,4 +27,4 @@ A personal Linktree-style profile links page built with HTML, CSS and JavaScript
 
 ## Live Demo
 
-https://himmetsepik.github.io/himmetsepik-links/
+https://himmetsepik.github.io
