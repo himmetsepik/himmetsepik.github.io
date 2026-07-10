@@ -14,7 +14,6 @@ A personal Linktree-style profile links page built with HTML, CSS and JavaScript
 ## Links
 
 - GitHub
-- Codester
 - Gumroad
 - Instagram
 - TikTok
